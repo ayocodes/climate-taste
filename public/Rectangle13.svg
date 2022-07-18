@@ -1,0 +1,17 @@
+<svg width="194" height="278" viewBox="0 0 194 278" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g style="mix-blend-mode:overlay">
+<rect x="49.7185" y="-3.76542" width="150.379" height="259.277" rx="24.4739" transform="rotate(11.8137 49.7185 -3.76542)" fill="black"/>
+<rect x="49.7185" y="-3.76542" width="150.379" height="259.277" rx="24.4739" transform="rotate(11.8137 49.7185 -3.76542)" stroke="black" stroke-width="1.39851"/>
+<rect x="49.7185" y="-3.76542" width="150.379" height="259.277" rx="24.4739" transform="rotate(11.8137 49.7185 -3.76542)" stroke="url(#paint0_angular_241_186)" stroke-width="1.39851"/>
+</g>
+<defs>
+<radialGradient id="paint0_angular_241_186" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(125.066 125.745) rotate(90) scale(130.338 75.8889)">
+<stop stop-color="#732424"/>
+<stop stop-color="#732424"/>
+<stop offset="0.260417" stop-color="#3D7182"/>
+<stop offset="0.515625" stop-color="#5C3D7B"/>
+<stop offset="0.760417" stop-color="#9D4489"/>
+<stop offset="1" stop-color="#732424"/>
+</radialGradient>
+</defs>
+</svg>
