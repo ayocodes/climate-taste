@@ -26,12 +26,12 @@ const newJournal: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Bound>
-      <BoundBackground />
+        <BoundBackground />
         <SBox>
           <ReflectIndicator index={0} active={false} />
           <ReflectCard />
-          <ReflectNav />
         </SBox>
+        <ReflectNav />
       </Bound>
     </>
   );

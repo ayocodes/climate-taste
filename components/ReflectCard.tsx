@@ -9,7 +9,7 @@ const SCard = styled(Card)`
   padding: 1.4rem;
   flex: 1;
   margin: 0;
-  margin-bottom: 4.5rem;
+  margin-bottom: 2.5rem;
   position: relative;
 `;
 

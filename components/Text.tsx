@@ -122,7 +122,7 @@ const SH6 = styled("h6")<IText>`
   color: ${({ theme, color }) => (color ? color : theme.text1)};
   user-select: ${({ userSelect }) => (userSelect ? "none" : "")};
   transition: all 2s;
-  font-size: 1rem;
+  font-size: 1.2rem;
   /* position: relative; */
   /* z-index: 2; */
 

@@ -6,18 +6,16 @@ interface ICardProps {
   className?: any;
 }
 
-
-
 const SCard = styled.div`
   background: linear-gradient(180deg, #3e404b 0%, #232429 100%);
   border-radius: 1.25rem;
-  margin:  0 1.5rem 1.5rem;
-position: relative;
-z-index: 1;
+  position: relative;
+  z-index: 1;
+  color: #ffffff;
 `;
 
-const card: React.FC<ICardProps> = ({ children,  className }) => {
+const Card: React.FC<ICardProps> = ({ children, className }) => {
   return <SCard className={className}>{children}</SCard>;
 };
 
-export default card;
+export default Card;

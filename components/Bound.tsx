@@ -9,12 +9,12 @@ interface IBoundProp {
 
 const SBound = styled.div`
   width: 21rem;
-  height: 39rem;
+  height: 93vh;
   background: #000000;
   border-radius: 1.25rem;
   display: flex;
   flex-direction: column;
-  padding-top: 4.5rem;
+  padding-top: 3.5rem;
   overflow: scroll;
   position: relative;
 `;
