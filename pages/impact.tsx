@@ -4,6 +4,7 @@ import Bound from "../components/Bound";
 import Card from "../components/Card";
 import BoundBackground1 from "../components/BoundBackground1";
 import Text from "../components/Text";
+import { NextPage } from "next";
 
 const Scard = styled(Card)`
   display: flex;
@@ -15,15 +16,15 @@ const Scard = styled(Card)`
   overflow: auto;
 `;
 
-const impact = () => {
+const Impact: NextPage = () => {
   return (
     <Bound>
       <BoundBackground1 />
       <Scard>
-        <Text type="h5">Hi there, let's see how much you've improved!</Text>
+        <Text type="h5">Hi there, let&apos;s see how much you&apos;ve improved!</Text>
       </Scard>
     </Bound>
   );
 };
 
-export default impact;
+export default Impact;

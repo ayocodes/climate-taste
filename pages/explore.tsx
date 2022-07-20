@@ -1,3 +1,4 @@
+import { NextPage } from "next";
 import React from "react";
 import styled from "styled-components";
 import Bound from "../components/Bound";
@@ -14,7 +15,7 @@ const Scard = styled(Card)`
   margin: 0 1.5rem 1.5rem;
 `;
 
-const explore = () => {
+const Explore: NextPage = () => {
   return (
     <Bound>
       <BoundBackground2 />
@@ -29,4 +30,4 @@ const explore = () => {
   );
 };
 
-export default explore;
+export default Explore;

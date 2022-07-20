@@ -61,7 +61,7 @@ const Home: NextPage = () => {
         <Link href="/new-journal">
           <a>
             <SCard>
-              <Text type="h4">Let's take today's Journal!</Text>
+              <Text type="h4">Let&apos;s take today&apos;s Journal!</Text>
             </SCard>
           </a>
         </Link>
